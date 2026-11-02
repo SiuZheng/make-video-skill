@@ -1,0 +1,21 @@
+# only the skill and the toolkit are tracked: video projects made next to videokit stay local
+/*
+!/make-video/
+!/videokit/
+!/README.md
+!/LICENSE
+!/.gitignore
+
+# third-party files you download yourself (see README)
+videokit/assets/*.sf2
+videokit/template/public/fonts/*.ttf
+
+# your characters, machine settings and caches
+videokit/sprites/*
+!videokit/sprites/README.md
+videokit/gpu.json
+__pycache__/
+*.pyc
+node_modules/
+*.bak*
+.env

@@ -1,0 +1,10 @@
+{
+ "title": "Untitled",
+ "format": "long",
+ "language": "en",
+ "fps": 30,
+ "speed": 1.0,
+ "voice": {"engine": "gemini", "model": "gemini-2.5-pro-preview-tts", "name": "Sulafat", "style": "Say slowly and calmly, like a warm science documentary narrator full of quiet wonder"},
+ "character": null,
+ "music": "wonder"
+}

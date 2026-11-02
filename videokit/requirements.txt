@@ -1,0 +1,7 @@
+numpy
+scipy
+Pillow
+soundfile
+tinysoundfont
+faster-whisper
+google-genai
